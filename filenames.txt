@@ -1,0 +1,8 @@
+.\data\input.dat
+.\data\dem.asc
+.\data\soil.asc
+.\data\soil.csv
+.\data\lulc.asc
+.\data\hmtu.csv
+.\data\sampler.dat
+.\res
